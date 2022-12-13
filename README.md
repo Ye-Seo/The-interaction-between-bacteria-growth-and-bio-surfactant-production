@@ -9,6 +9,7 @@ Bacteria can produce biosurfactant, gas, or organic solvents and among them, bio
 It was very interesting to me that bacteria can be also useful and I chose this topic about interaction with bacteria growth and biosurfactants production.
 
 #Research#
+
 This research is about investigating microbial enhanced oil recovery from biosurfactant of Clostidium sp.
 Biosurfactant producing Bacteria Growth (BBG) model was adressed to minimize the parameters and relating to the interfacial tension models.
 The experimental data of which bacteria growth and biosurfactant production veresus time could be fitted to the BBG models.
@@ -22,6 +23,7 @@ BBG models can be expressed like this;
 
 
 #Results#
+
 Fisrt of all, I choose the parameter K0 which is carrying capacity and this is in the denomination of the coeffcient in the second term.
 The second term means the inter bacteria competition so when K0 goes infintie which means the active competiton of bacteria for nutrients.
 And the interaction between bacteria will be zero, and there will be no disturbtion of bacteria growth.
@@ -38,6 +40,7 @@ But when the values of predation factor, 𝛿 were alterted, it was same in the 
 <img width="375" alt="Screen Shot 2022-12-13 at 14 28 07" src="https://user-images.githubusercontent.com/112365479/207426775-8f0aa1a2-accf-43dd-b1c5-60d722efdfc9.png">
 
 
+Flow on a line
 
 From Flow on a line, the moderate carrying capacity for bacteria growth and the small predation factor had more stable steady state.
 It can be explained that carrying capaciy should be not too small or big to save the interbacteria interaction and the predation of bacteria should be small to produce the biosurfactant.
@@ -45,6 +48,7 @@ It can be explained that carrying capaciy should be not too small or big to save
 <img width="317" alt="Screen Shot 2022-12-13 at 14 25 44" src="https://user-images.githubusercontent.com/112365479/207426323-0f8cfa0b-055c-463c-804d-60b4e03b781d.png">
 <img width="315" alt="Screen Shot 2022-12-13 at 14 25 56" src="https://user-images.githubusercontent.com/112365479/207426367-5e386d78-b18d-43da-a0d3-3d898340d6c6.png">
 
+2D Phase portrait
 
 From 2d phase portrait, the data was limited with small size.
 The steady state can be seen at (0,0) but biosurfactant production rate seemed most steady state.
@@ -55,6 +59,7 @@ Considering the eigenvalue and eigenvector, thery are all positive real part wit
 
 
 Parameter Sensitivity
+
 When analyzing the parameter sensitivity for bacteria growth, 𝜇1>𝐾0>𝛿 was most sensitive when measured at 0.15 pertubation.
 and for biosurfactant production, 𝜇2>𝐾0>𝜇1 was most sensitive when measured at 0.15 pertubation.
 It could be justified that 𝜇1 was bacteria growth rate, and 𝜇2 is biosurfactant production rate so they are most sensitive.
@@ -65,20 +70,23 @@ It could be justified that 𝜇1 was bacteria growth rate, and 𝜇2 is biosurfa
 <img width="292" alt="Screen Shot 2022-12-13 at 14 25 01" src="https://user-images.githubusercontent.com/112365479/207426156-37951eb7-a77c-4a05-8035-785c4539fa40.png">
 
 
-Local Initial Parameter
+Local Initial Parameter Sensitivity
+
 In initial parameter sensitivity, they were same but predator factor which bacteria consume biosurfactat is also essential.
 
 <img width="332" alt="Screen Shot 2022-12-13 at 14 23 06" src="https://user-images.githubusercontent.com/112365479/207425823-266b4c75-1da5-4539-abf8-15199b44b8fa.png">
 
 <img width="313" alt="Screen Shot 2022-12-13 at 14 23 15" src="https://user-images.githubusercontent.com/112365479/207425854-ada6fc4f-aaf6-476c-bd39-be54cd7e9436.png">
 
-Gloabal Parameter
+Gloabal Parameter Sensitivity
+
 There was some deviation in distribution of paramters with several random parmeters, and also there was different predicted bacteria growth and biosurfactant production when normalizing 𝐾0.
 
 <img width="336" alt="Screen Shot 2022-12-13 at 14 23 37" src="https://user-images.githubusercontent.com/112365479/207425920-b96579e5-b8b5-4242-abe4-0998ed20c644.png">
 <img width="320" alt="Screen Shot 2022-12-13 at 14 23 45" src="https://user-images.githubusercontent.com/112365479/207425942-0ef48bd2-edc8-42f1-b583-42c670c68089.png">
 
 #Conclusion#
+
 Interaction of bacteria growth and biosurfactant production was unsteady state.
 Bacteria Growth had most sensitivity to 𝜇1 (bacteria growth rate) followed by 𝐾0 (carrying capacity).
 Surfactant Production had most sensitivity to 𝜇2 which is biosurfactant production rate.
