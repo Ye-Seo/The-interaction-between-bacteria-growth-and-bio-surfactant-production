@@ -41,6 +41,7 @@ But when the values of predation factor, 𝛿 were alterted, it was same in the 
 
 From Flow on a line, the moderate carrying capacity for bacteria growth and the small predation factor had more stable steady state.
 It can be explained that carrying capaciy should be not too small or big to save the interbacteria interaction and the predation of bacteria should be small to produce the biosurfactant.
+
 <img width="317" alt="Screen Shot 2022-12-13 at 14 25 44" src="https://user-images.githubusercontent.com/112365479/207426323-0f8cfa0b-055c-463c-804d-60b4e03b781d.png">
 <img width="315" alt="Screen Shot 2022-12-13 at 14 25 56" src="https://user-images.githubusercontent.com/112365479/207426367-5e386d78-b18d-43da-a0d3-3d898340d6c6.png">
 
@@ -58,6 +59,7 @@ When analyzing the parameter sensitivity for bacteria growth, 𝜇1>𝐾0>𝛿 w
 and for biosurfactant production, 𝜇2>𝐾0>𝜇1 was most sensitive when measured at 0.15 pertubation.
 It could be justified that 𝜇1 was bacteria growth rate, and 𝜇2 is biosurfactant production rate so they are most sensitive.
 𝐾0 was interbacteria interaction, so resulting that there is much highly affect to bacteria growth and biosurfactant production.
+
 <img width="308" alt="Screen Shot 2022-12-13 at 14 24 37" src="https://user-images.githubusercontent.com/112365479/207426088-534fea81-aabd-49ab-8c13-f43cb5605f20.png">
 
 <img width="292" alt="Screen Shot 2022-12-13 at 14 25 01" src="https://user-images.githubusercontent.com/112365479/207426156-37951eb7-a77c-4a05-8035-785c4539fa40.png">
