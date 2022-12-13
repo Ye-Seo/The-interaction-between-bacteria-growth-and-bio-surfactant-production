@@ -31,23 +31,37 @@ But there was no 𝐾0 in the surfactant production equation, I choose another p
 When analyzing bifurcation about bacteria growth P assuming other biosurfactant production S is 1, 
 unstable steady state with (0,0) at 𝐾0= 0.5 is found but stable steady state was additionally found at 𝐾0=5.
 And it can be seen that the steady state at K0=5 got more stable steady state.
-
+<img width="384" alt="Screen Shot 2022-12-13 at 14 28 21" src="https://user-images.githubusercontent.com/112365479/207426835-d8e7986e-ec2e-4aeb-9b1e-2b5e71cc87db.png">
 
 And I choose the predation factor which bacteria consume biosurfacnt which can be seen in the bacteria and surfactant interaction term.
 But when the values of predation factor, 𝛿 were alterted, it was same in the stable steady state at (0,0).
+<img width="375" alt="Screen Shot 2022-12-13 at 14 28 07" src="https://user-images.githubusercontent.com/112365479/207426775-8f0aa1a2-accf-43dd-b1c5-60d722efdfc9.png">
+
+
 
 From Flow on a line, the moderate carrying capacity for bacteria growth and the small predation factor had more stable steady state.
 It can be explained that carrying capaciy should be not too small or big to save the interbacteria interaction and the predation of bacteria should be small to produce the biosurfactant.
+<img width="317" alt="Screen Shot 2022-12-13 at 14 25 44" src="https://user-images.githubusercontent.com/112365479/207426323-0f8cfa0b-055c-463c-804d-60b4e03b781d.png">
+<img width="315" alt="Screen Shot 2022-12-13 at 14 25 56" src="https://user-images.githubusercontent.com/112365479/207426367-5e386d78-b18d-43da-a0d3-3d898340d6c6.png">
+
 
 From 2d phase portrait, the data was limited with small size.
 The steady state can be seen at (0,0) but biosurfactant production rate seemed most steady state.
 The vectors are repelled from the steady state, which can be seen unsteady state.
 Considering the eigenvalue and eigenvector, thery are all positive real part without imaginary part, resulting in unstable steady state.
 
+<img width="339" alt="Screen Shot 2022-12-13 at 14 25 18" src="https://user-images.githubusercontent.com/112365479/207426214-497969ed-a99d-41c6-9fde-65a97fc43e80.png">
+
+
+Parameter Sensitivity
 When analyzing the parameter sensitivity for bacteria growth, 𝜇1>𝐾0>𝛿 was most sensitive when measured at 0.15 pertubation.
 and for biosurfactant production, 𝜇2>𝐾0>𝜇1 was most sensitive when measured at 0.15 pertubation.
 It could be justified that 𝜇1 was bacteria growth rate, and 𝜇2 is biosurfactant production rate so they are most sensitive.
 𝐾0 was interbacteria interaction, so resulting that there is much highly affect to bacteria growth and biosurfactant production.
+<img width="308" alt="Screen Shot 2022-12-13 at 14 24 37" src="https://user-images.githubusercontent.com/112365479/207426088-534fea81-aabd-49ab-8c13-f43cb5605f20.png">
+
+<img width="292" alt="Screen Shot 2022-12-13 at 14 25 01" src="https://user-images.githubusercontent.com/112365479/207426156-37951eb7-a77c-4a05-8035-785c4539fa40.png">
+
 
 Local Initial Parameter
 In initial parameter sensitivity, they were same but predator factor which bacteria consume biosurfactat is also essential.
