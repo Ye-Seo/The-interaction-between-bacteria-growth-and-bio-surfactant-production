@@ -1,13 +1,14 @@
 # The-interaction-between-bacteria-growth-and-bio-surfactant-production
 
-#Overiview
+#Overiview#
+
 My research about PhD is about bacterial studies in Niepa's group of UPitt and my previous thinking about bacteria was negative before doing research.
 Most bacteria affect negatively like biofilm in the drain or pipe, infection to the human organs or contamination of environments.
 But I have found that bacteria can be utilized for myriads purposes by deriving their bioproducts and applying them to the desired things effectively.
 Bacteria can produce biosurfactant, gas, or organic solvents and among them, biosurfactant can enhance oil recovery by reducing the interfacial tension of oil and water.
 It was very interesting to me that bacteria can be also useful and I chose this topic about interaction with bacteria growth and biosurfactants production.
 
-#Research
+#Research#
 This research is about investigating microbial enhanced oil recovery from biosurfactant of Clostidium sp.
 Biosurfactant producing Bacteria Growth (BBG) model was adressed to minimize the parameters and relating to the interfacial tension models.
 The experimental data of which bacteria growth and biosurfactant production veresus time could be fitted to the BBG models.
@@ -20,7 +21,7 @@ BBG models can be expressed like this;
    2) Surfactant Production:  dS/dt = 𝜇2*P− 𝛿*P*S
 
 
-#Results
+#Results#
 Fisrt of all, I choose the parameter K0 which is carrying capacity and this is in the denomination of the coeffcient in the second term.
 The second term means the inter bacteria competition so when K0 goes infintie which means the active competiton of bacteria for nutrients.
 And the interaction between bacteria will be zero, and there will be no disturbtion of bacteria growth.
@@ -51,7 +52,7 @@ It could be justified that 𝜇1 was bacteria growth rate, and 𝜇2 is biosurfa
 In initial parameter sensitivity, they were same but predator factor which bacteria consume biosurfactat is also essential.
 There was some deviation in distribution of paramters with several random parmeters, and also there was different predicted bacteria growth and biosurfactant production when normalizing 𝐾0.
 
-#Conclusion
+#Conclusion#
 Interaction of bacteria growth and biosurfactant production was unsteady state.
 Bacteria Growth had most sensitivity to 𝜇1 (bacteria growth rate) followed by 𝐾0 (carrying capacity).
 Surfactant Production had most sensitivity to 𝜇2 which is biosurfactant production rate.
